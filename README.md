@@ -1,16 +1,15 @@
-### Hi there 👋
+# 😎 Kashav Piya 👋
 
-<!--
-**kashavpiya/kashavpiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** `Independent Game Developer | CS @ AC'23 | All things Python, C#, SQL, and R` **
 
-Here are some ideas to get you started:
+✨ I'm a senior studying Computer Science who has always loved creating solutions and challenging technological problems. I have experience in Software Development, Web Development, Data Analytics and Game Development along with some prior research experience in IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to attending different hackathon, and project-based program,, I enjoy learning new languages and frameworks for side projects. I’m currently building most frequently with: Python, Java and C#. I am also familiar with R, SQL, JavaScript and others. ✨
+
+
+- 🔭 I’m currently working on finding entry level positions in Software Development or Data Analytics. 
+- 🌱 I’m just completed the Google Data Analytics Professional Certificate.
+- 📫 How to reach me: Email - kashavpiya23@gmail.com 
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love photography and all kinds of music.
+

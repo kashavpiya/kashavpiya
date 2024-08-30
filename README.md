@@ -2,9 +2,9 @@
 
 ** `Independent Game Developer | CS @ AC'23 | All things Python, C#, SQL, and R` **
 
-✨ I'm a senior studying Computer Science who has always loved creating solutions and challenging technological problems. I have experience in Software Development, Web Development, Data Analytics and Game Development along with some prior research experience in IoT.
+✨ I'm a Computer Science grad who has always loved creating solutions and challenging technological problems. I have experience in Software Development, Web Development, Data Analytics and Game Development along with some prior research experience in IoT.
 
-In addition to attending different hackathon, and project-based program,, I enjoy learning new languages and frameworks for side projects. I’m currently building most frequently with: Python, Java and C#. I am also familiar with R, SQL, JavaScript and others. ✨
+In addition to attending different hackathon, and project-based program,, I enjoy learning new languages and frameworks for side projects. I’m currently building most frequently with: Python, Java and JavaSceipt. I am also familiar with R, SQL, C# and others. ✨
 
 
 - 🔭 I’m currently working on finding entry level positions in Software Development or Data Analytics. 

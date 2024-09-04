@@ -1,6 +1,6 @@
 # 😎 Kashav Piya 👋
 
-** `Independent Game Developer | CS @ AC'23 | All things Python, C#, SQL, and R` **
+** `Full Stack Software Engineer | CS @ AC'23 | All things Python, C#, SQL, and R` **
 
 ✨ I'm a Computer Science grad who has always loved creating solutions and challenging technological problems. I have experience in Software Development, Web Development, Data Analytics and Game Development along with some prior research experience in IoT.
 
